@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1&section=header" width="100%" />
 
-  <h1>Nilesh Solanki</h1>
+  <h1><a href="https://nilesh6596.github.io" target="_blank">Nilesh Solanki</a></h1>
   <h3>MEAN Stack Developer &bull; SDE-II at Apexon &bull; 7+ Years of Experience</h3>
 
   <br/>
